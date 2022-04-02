@@ -1,0 +1,76 @@
+﻿  Graph.cpp
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.h(10,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.cpp(95,89): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.cpp(95,63): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.cpp(96,89): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.cpp(96,63): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.cpp(97,89): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.cpp(97,63): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.cpp(102,102): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.cpp(102,71): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.cpp(106,99): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.cpp(106,68): warning C4244: 'bağımsız değişken': 'double' - '_Tp' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Tp=int
+          ]
+  KNN.cpp
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.h(10,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\KNN.cpp(60,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\KNN.cpp(172,26): warning C4244: 'bağımsız değişken': '__int64' - '_Ty' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\KNN.cpp(173,26): warning C4244: 'bağımsız değişken': '__int64' - '_Ty' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\KNN.cpp(174,26): warning C4244: 'bağımsız değişken': '__int64' - '_Ty' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\KNN.cpp(176,67): warning C4244: 'bağımsız değişken': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+  KNNProject.cpp
+C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\KNNProject\Graph.h(10,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  Point.cpp
+  Kod Üretiliyor...
+  KNNProject.vcxproj -> C:\Users\ezelb\OneDrive\Masaüstü\151220174086_Abdulezel\KNNProject\x64\Debug\KNNProject.exe
